@@ -34,7 +34,7 @@
 
 /* Select the image that has an attribute value matching "Kitty 5" (using attribute selector) */
 
-#basket {
+#basket {kitty-2
   position: absolute;
   z-index: 3;
   top: 217px;
